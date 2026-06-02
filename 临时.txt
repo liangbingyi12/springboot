@@ -1,0 +1,13 @@
+sell(类名)
+
+id int 
+name string 
+goods string
+price float
+picture_url string
+video_url string
+phone_number string
+state1 string
+state2 string
+state3 string
+state4 string
