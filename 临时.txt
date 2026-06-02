@@ -2,6 +2,7 @@ sell(类名)
 
 id int 
 name string 
+name1 string 
 goods string
 price float
 picture_url string
